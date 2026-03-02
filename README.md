@@ -13,8 +13,7 @@
 ---
 
 ## 🔎 2) Critical Thinking & Falsehoods
-- ⚠️ **Awesome Falsehoods** – [GitHub](https://github.com/kdeldycke/awesome-falsehoods)  
-
+- ⚠️ **Awesome Falsehoods** – [GitHub](https://github.com/kdeldycke/awesome-falsehood)
 ---
 
 ## 📊 3) Algorithms
@@ -144,6 +143,4 @@
 - 🐢 **Thirteen Ways of Looking at a Turtle** – [F# for Fun and Profit](https://fsharpforfunandprofit.com/)  
 
 ---
-
-> ⚡ This is a personal curated knowledge map for my long-term software engineering journey.  
 > Updated continuously as I learn.

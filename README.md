@@ -2,14 +2,7 @@
 
 
 
-# Every Programmer Should Know
 
-ده collection من حاجات technical أي Software Developer لازم يعرفها، سواء Junior أو Senior، ومش فارقة الـ Tech Stack.  
-مش لازم تحفظ كل حاجة، بس فهم الحاجات دي هيساعدك تبقى أفضل.
-
-لو مفيد، اعمله Star وشيره مع أي dev صاحبك!
-
----
 
 ## Introduction
 - [Map of Computer Science](https://www.youtube.com/watch?v=XXXXXXXX)  

@@ -1,146 +1,149 @@
-# Essential stuff every software developer should know—Junior or Senior, any tech stack. Understand, don’t just memorize 
+# 🧠 Developer Knowledge Map
 
-
-
-
-
-## Introduction
-- [Map of Computer Science](https://www.youtube.com/watch?v=XXXXXXXX)  
-- [40 Key CS Concepts Explained Simply](https://carlcheo.com/cs-concepts/)  
-- [Computer Science Roadmap](https://roadmap.sh/computer-science)  
-- [Community‑driven Roadmaps for Developers](https://github.com/mtdvio/every-programmer-should-know)
+> A curated collection of resources every programmer should explore for a solid foundation and ongoing learning.
 
 ---
 
-## Falsehoods
-- [Awesome Falsehoods – Common Programmer Misconceptions](https://github.com/mtdvio/every-programmer-should-know)
+## 📌 1) Foundations & Big Picture
+- 🎥 **Map of Computer Science (Video)** – [YouTube](https://www.youtube.com/watch?v=O5nskjZ_GoI)  
+- 🌐 **40 Key CS Concepts Explained in Layman’s Terms** – [carlcheo.com](https://carlcheo.com/40-Key-Computer-Science-Concepts-Explained-In-Laymans-Terms/)  
+- 🗺️ **Developer Roadmaps** – [roadmap.sh](https://roadmap.sh/)  
+- 🌟 Community-driven learning paths – [GitHub Community Roadmaps](https://github.com/kamranahmedse/developer-roadmap)  
 
 ---
 
-## Algorithms
-- [Big O Cheatsheet](https://bigocheatsheet.com)  
-- [Computer Science Distilled](https://github.com/mtdvio/every-programmer-should-know)  
-- [Grokking Algorithms](https://github.com/mtdvio/every-programmer-should-know)  
-- [Introduction to Algorithms (MIT)](https://github.com/mtdvio/every-programmer-should-know)  
-- [Algorithm Visualization](http://www.cs.usfca.edu/activities/visualization/)  
-- [Algorithms for Competitive Programming](https://github.com/mtdvio/every-programmer-should-know)
+## 🔎 2) Critical Thinking & Falsehoods
+- ⚠️ **Awesome Falsehoods** – [GitHub](https://github.com/kdeldycke/awesome-falsehoods)  
 
 ---
 
-## Data Structures
-- [Hello Algo](https://www.hello-algo.com/)  
-- [UC Berkeley Data Structures Course](https://sp19.datastructur.es/)  
-- [Foundations of Data Structures – EDX](https://github.com/mtdvio/every-programmer-should-know)  
-- [Data Structures – Coursera](https://github.com/mtdvio/every-programmer-should-know)  
-- [Mathematics for CS – Eric Lehman](https://github.com/mtdvio/every-programmer-should-know)
+## 📊 3) Algorithms
+- ⏱ **Big-O Cheat Sheet** – [bigocheatsheet.com](https://www.bigocheatsheet.com/)  
+- 📘 **Computer Science Distilled** – [Goodreads](https://www.goodreads.com/book/show/23207791-computer-science-distilled)  
+- 📗 **Grokking Algorithms** – [Goodreads](https://www.goodreads.com/book/show/22055248-grokking-algorithms)  
+- 📕 **Introduction to Algorithms (CLRS)** – [Goodreads](https://www.goodreads.com/book/show/108986.Introduction_to_Algorithms)  
+- 🎮 **Algorithm Visualizer** – [USFCA](https://cs.usfca.edu/~galles/visualization/Algorithms.html)  
+- 🧠 **CP-Algorithms** – [cp-algorithms.com](https://cp-algorithms.com/)  
 
 ---
 
-## Numbers
-- [How to Count](https://github.com/mtdvio/every-programmer-should-know)  
-- [Floating Point Guide](https://github.com/mtdvio/every-programmer-should-know)  
-- [What Every CS Should Know About Floating-Point Arithmetic](https://github.com/mtdvio/every-programmer-should-know)  
-- [Basic Number Theory Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
+## 📦 4) Data Structures
+- 🌐 **Hello Algo** – [hello-algo.com](https://www.hello-algo.com/)  
+- 🎓 **UC Berkeley Data Structures** – [sp19.datastructur.es](https://sp19.datastructur.es/)  
+- 🏫 **Foundations of Data Structures (edX)** – [edX](https://www.edx.org/course/data-structures-foundations)  
+- ➗ **Mathematics for Computer Science (MIT)** – [MIT CSAIL](https://people.csail.mit.edu/emin/)  
 
 ---
 
-## Strings & Encoding
-- [Unicode and Character Sets](https://github.com/mtdvio/every-programmer-should-know)  
-- [Homoglyphs](https://github.com/mtdvio/every-programmer-should-know)  
-- [Unicode CLDR](https://github.com/mtdvio/every-programmer-should-know)  
-- [ASCII Video](https://github.com/mtdvio/every-programmer-should-know)  
-- [UTF-8 Video](https://github.com/mtdvio/every-programmer-should-know)
+## 📐 5) Numbers & Computation
+- 📘 **How to Count** – [Goodreads](https://www.goodreads.com/book/show/25844926-how-to-count)  
+- 🔢 **Floating Point Guide** – [floating-point-gui.de](https://floating-point-gui.de/)  
+- 📄 **Floating-Point Arithmetic Guide (Oracle)** – [Oracle Docs](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg/)  
+- 🧮 **Basic Number Theory** – [CodeChef](https://www.codechef.com/)  
 
 ---
 
-## Latency & Time
-- [Interactive Latency Infographics](https://github.com/mtdvio/every-programmer-should-know)  
-- [Latency Numbers Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)  
-- [Some notes about time](https://github.com/mtdvio/every-programmer-should-know)  
-- [The Problem with Timezones Video](https://github.com/mtdvio/every-programmer-should-know)
+## 🔤 6) Strings & Text Handling
+- 📖 **Unicode Essentials** – [Joel on Software](https://joelonsoftware.com/2003/10/08/what-every-programmer-should-know-about-unicode/)  
+- 🔍 **Homoglyphs Explained** – [Wikipedia](https://en.wikipedia.org/wiki/Homoglyph)  
+- 🌍 **Unicode CLDR** – [unicode.org](https://cldr.unicode.org/)  
+- 💻 **ASCII & UTF‑8 Basics (Video)** – [YouTube ASCII](https://www.youtube.com/watch?v=0yH1eF3uRz0), [YouTube UTF-8](https://www.youtube.com/watch?v=0Sjq0VRA-9k)  
 
 ---
 
-## Memory
-- [What every Programmer should know about memory](https://github.com/mtdvio/every-programmer-should-know)
+## 📉 7) Latency & Performance
+- ⚡ **Interactive Latency Overview** – [Berkeley EECS](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)  
+- 📊 **Latency Numbers Every Programmer Should Know** – [GitHub Gist](https://gist.github.com/jboner/2841832)  
 
 ---
 
-## Distributed Systems
-- [Understanding Distributed Systems](https://github.com/mtdvio/every-programmer-should-know)  
-- [Designing Data-Intensive Applications](https://github.com/mtdvio/every-programmer-should-know)  
-- [Designs, Lessons & Advice from Large Systems](https://github.com/mtdvio/every-programmer-should-know)  
-- [Time, Clocks & Ordering of Events](https://github.com/mtdvio/every-programmer-should-know)  
-- [There is No Now](https://github.com/mtdvio/every-programmer-should-know)  
-- [Jepsen: DB behavior under partition](https://github.com/mtdvio/every-programmer-should-know)  
-- [Fallacies of Distributed Computing](https://github.com/mtdvio/every-programmer-should-know)
+## ⏱ 8) Time & Timezones
+- 🕰 **Notes About Time** – [unix4lyfe.org](https://unix4lyfe.org/)  
+- 🌍 **The Problem with Timezones (Video)** – [YouTube](https://www.youtube.com/watch?v=-N9o6g0P9RE)  
 
 ---
 
-## Machine Learning
-- [Andrew NG Machine Learning Class](https://github.com/mtdvio/every-programmer-should-know)
+## 💾 9) Memory
+- 🧠 **Memory Essentials for Programmers** – [LWN Articles](https://lwn.net/Articles/238946/)  
 
 ---
 
-## RegExp
-- [RegexHQ](https://github.com/mtdvio/every-programmer-should-know)  
-- [Learn regex the easy way](https://github.com/mtdvio/every-programmer-should-know)  
-- [Regex Crossword](https://github.com/mtdvio/every-programmer-should-know)
+## 🧠 10) Distributed Systems
+- 📘 **Understanding Distributed Systems** – [Goodreads](https://www.goodreads.com/book/show/41614801-understanding-distributed-systems)  
+- 📗 **Designing Data-Intensive Applications** – [Goodreads](https://www.goodreads.com/book/show/22875738-designing-data-intensive-applications)  
+- 🏗 **Lessons from Large Distributed Systems** – [Cornell CS](https://www.cs.cornell.edu/)  
+- ⏳ **Time, Clocks & Event Ordering** – [Microsoft Docs](https://learn.microsoft.com/en-us/archive/blogs/ericlippert/time-clocks-and-ordering-of-events)  
+- 🧩 **Fallacies of Distributed Computing** – [Wisconsin](https://pages.cs.wisc.edu/~markhill/)  
+- 🔬 **Jepsen** – [aphyr.com](https://aphyr.com/)  
+- 🧠 **There Is No Now** – [ACM Queue](https://queue.acm.org/)  
 
 ---
 
-## Security
-- [Security Programming](https://github.com/mtdvio/every-programmer-should-know)  
-- [Rolling Your Own Crypto](https://github.com/mtdvio/every-programmer-should-know)  
-- [Cryptographic Right Answers](https://github.com/mtdvio/every-programmer-should-know)  
-- [An Open Letter to Developers About Crypto](https://github.com/mtdvio/every-programmer-should-know)  
-- [Foundations of Security](https://github.com/mtdvio/every-programmer-should-know)  
-- [OWASP Top 10](https://github.com/mtdvio/every-programmer-should-know)  
-- [Portswigger Academy](https://github.com/mtdvio/every-programmer-should-know)  
-- [Web App Exploits & Defenses](https://github.com/mtdvio/every-programmer-should-know)  
-- [Hashing, Encryption & Encoding](https://github.com/mtdvio/every-programmer-should-know)
+## 🤖 11) Machine Learning Basics
+- 🎓 **Andrew Ng ML Course** – [Coursera](https://www.coursera.org/learn/machine-learning)  
 
 ---
 
-## UX / SEO
-- [Don't Make Me Think – UX](https://github.com/mtdvio/every-programmer-should-know)  
-- [Inventing on Principle Video](https://github.com/mtdvio/every-programmer-should-know)  
-- [What Every Programmer Should Know About SEO](https://github.com/mtdvio/every-programmer-should-know)
+## 🔍 12) Regular Expressions
+- 🧠 **Regex HQ** – [regexhq.com](https://regexhq.com/)  
+- 📖 **Learn Regex** – [learnregex.com](https://learnregex.com/)  
+- 🧩 **Regex Crossword** – [regexcrossword.com](https://regexcrossword.com/)  
 
 ---
 
-## Architecture & System Design
-- Boxology Guide, Out of the Tar Pit, No Silver Bullet  
-- Growing a Language Video  
-- CQRS & Event Sourcing Video  
-- OO Design in Ruby  
-- Evolutionary Software Architectures Video  
-- System Design: A Primer  
-- How JavaScript Works parts 1‑4  
-- ECS Architecture with Unity
+## 🔒 13) Security
+- 🔐 **Secure Programming Guide** – [dwheeler.com](https://dwheeler.com/secprog/)  
+- ⚠️ **Rolling Your Own Crypto? Think Twice** – [loup-vaillant.fr](https://loup-vaillant.fr/rolling-your-own-crypto/)  
+- 🛡 **OWASP Top 10** – [owasp.org](https://owasp.org/www-project-top-ten/)  
+- 🎓 **PortSwigger Academy** – [portswigger.net](https://portswigger.net/web-security/academy)  
+- 🧪 **Google Gruyere Web Security Lab** – [google-gruyere.appspot.com](https://google-gruyere.appspot.com/)  
+- 🔎 **Hashing vs Encryption vs Encoding** – [integralist.co.uk](https://integralist.co.uk/hashing-encryption-encoding/)  
 
 ---
 
-## Practices & Patterns
-- Clean Code, Code Complete, TDD, SICP, Pomodoro for Programmers, SRE guides, وغيرها ([GitHub Repo](https://github.com/mtdvio/every-programmer-should-know))
+## 🖥 14) UX & Usability
+- 📘 **Don’t Make Me Think** – [Goodreads](https://www.goodreads.com/book/show/82760.Don_t_Make_Me_Think)  
+- 🎥 **Inventing on Principle (Video)** – [Vimeo](https://vimeo.com/36579366)  
 
 ---
 
-## Career & Soft Skills
-- Levels FYI, Interview prep, Salary stats, Negotiation tips, Resume tools ([GitHub Repo](https://github.com/mtdvio/every-programmer-should-know))
+## 🌐 15) SEO Basics
+- 📈 **SEO Guide** – [katemats.com](https://katemats.com/seo-guide/)  
 
 ---
 
-## Open Source & Remote Work
-- [Learn Git & GitHub](https://github.com/mtdvio/every-programmer-should-know)  
-- Remote Jobs Boards, NomadList, Ultimate Guide to Remote Work
+## 🏗 16) Software Architecture
+- 📦 **Boxology** – [WPI CS](https://web.cs.wpi.edu/boxology/)  
+- 📄 **Out of the Tar Pit** – [Info UCL](https://www.info.ucl.ac.be/)  
+- 🪙 **No Silver Bullet** – [UNC](https://www.unc.edu/)  
+- 🧱 **CQRS & Event Sourcing (Video)** – [YouTube](https://www.youtube.com/watch?v=0pW2d4a4Ukg)  
+- 📘 **Practical Object-Oriented Design in Ruby** – [poodr.com](https://www.poodr.com/)  
+- 🧬 **Evolutionary Software Architectures (Video)** – [YouTube](https://www.youtube.com/watch?v=v1QbQ1lU54g)  
+- 🧩 **Entity-Component-System Architecture (Video)** – [YouTube](https://www.youtube.com/watch?v=2LlM3J6XFoY)  
 
 ---
 
-## Coding Practice Sites
-- Codeforces, CodeChef, LeetCode, HackerRank, Spoj, Exercism وغيرها
+## 🧩 17) Code Design Principles
+- 📚 **Software Design Principles Wiki** – [principles-wiki.net](https://www.principles-wiki.net/)  
 
 ---
 
-## Books / Papers / Free Stuff
-- Free Programming Books, Papers We Love, Morning Paper
+## 🧭 18) Engineering Mindset
+- 🧠 Simple Made Easy  
+- 🚫 Myth of the Genius Programmer  
+- 🛠 Debugging Mindset  
+- 💡 Engineering Philosophy Talks  
+
+---
+
+## 🛠 19) Software Practices
+- 📘 **Clean Code**  
+- 📕 **Code Complete**  
+- 🧪 **Test-Driven Development**  
+- 🧠 **Mostly Adequate Guide** – [GitBook](https://mostly-adequate.gitbook.io/)  
+- 🐢 **Thirteen Ways of Looking at a Turtle** – [F# for Fun and Profit](https://fsharpforfunandprofit.com/)  
+
+---
+
+> ⚡ This is a personal curated knowledge map for my long-term software engineering journey.  
+> Updated continuously as I learn.
